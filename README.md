@@ -84,7 +84,7 @@ This visualization helps users easily **observe vegetation changes** and **under
 
 ---
 
-### 🔍 **NDVI Series Decomposition**
+###  **NDVI Series Decomposition**
 
 To analyze the data in greater detail, FLORA breaks the time series into simpler components:
 
@@ -142,5 +142,6 @@ The combination of **color-coded points** and **interactive tooltips** helps use
 ---
 
 *FLORA is more than a visualization tool — it’s a window into the living pulse of our planet.*
+
 
 
