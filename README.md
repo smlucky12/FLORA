@@ -117,7 +117,7 @@ This predictive view helps **anticipate vegetation changes** and plan **preventi
 
 This section enables users to **analyze NDVI evolution over time** in selected areas.
 
-### ⚙️ **Main functions**
+### **Main functions**
 -  **Select Area (rect_id):** Choose the specific zone to analyze.  
 -  **Date Range:** Filter data for a selected time interval.  
 -  **Line Graph:** Displays how NDVI changes over time.
@@ -129,7 +129,7 @@ This section enables users to **analyze NDVI evolution over time** in selected a
 
 <img width="679" height="258" alt="image" src="https://github.com/user-attachments/assets/f6bf7bb2-216d-4364-a27b-6e60657d7deb" />
 
-### 💬 **Tooltip**
+### **Tooltip**
 When hovering over each point, messages appear showing:
 - The **NDVI value**
 - Its **status** (healthy, moderate, or weak)
@@ -141,5 +141,6 @@ The combination of **color-coded points** and **interactive tooltips** helps use
 
 ---
 
-🌎 *FLORA is more than a visualization tool — it’s a window into the living pulse of our planet.*
+*FLORA is more than a visualization tool — it’s a window into the living pulse of our planet.*
+
 
